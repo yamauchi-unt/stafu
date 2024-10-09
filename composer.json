@@ -9,7 +9,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "YamauchiUnt\\Stafu\\CheckIpServiceProvider"
+                "YamauchiUnt\\Stafu\\StafuServiceProvider"
             ]
         }
     }
