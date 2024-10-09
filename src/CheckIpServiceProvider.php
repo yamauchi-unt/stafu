@@ -3,7 +3,7 @@
 namespace YamauchiUnt\Stafu;
 
 use Illuminate\Support\ServiceProvider;
-use Unt\Stafu\Http\Middleware\CheckIp;
+use YamauchiUnt\Stafu\Http\Middleware\CheckIp;
 
 class CheckIpServiceProvider extends ServiceProvider
 {
