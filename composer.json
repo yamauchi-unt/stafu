@@ -1,0 +1,16 @@
+{
+    "name": "yamauchi-unt/stafu",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "YamauchiUnt\\Stafu\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YamauchiUnt\\Stafu\\CheckIpServiceProvider"
+            ]
+        }
+    }
+}
